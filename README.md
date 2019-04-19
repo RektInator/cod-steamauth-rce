@@ -2,7 +2,7 @@
 
 This repository contains the Proof-of-Concept for the SteamAuth vulnerability in various Call of Duty games.
 
-CVE-ID: -
+CVE-ID: CVE-2018-20817
 
 ## Disclaimer
 
